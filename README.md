@@ -1,2 +1,2 @@
-# yash--demo
-This is my first repository
+# Yash-demo
+This is my first Repository. Author - Yash Patel
